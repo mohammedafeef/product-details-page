@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "product-page",
+  "name": "cool-product-details",
   "icons": [
     {
       "src": "favicon.ico",
